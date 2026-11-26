@@ -1,0 +1,6 @@
+tip,klasa,damage,health,x,y,oblik,dimenzije
+Goblin,melee,20,60,12,5,square,32,32
+Orc,melee,30,80,100,100,rectangle,40,24
+Orc Shaman,boss,35,70,15,4,square,16,16
+Skeleton Archer,melee,15,50,10,6,rectangle,24,48
+Lich Lord,boss,40,100,200,150,square,18,18
